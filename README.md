@@ -3,5 +3,5 @@ React Native Android library for managing packages
 
 ## Getting started
 ```
-coming soon
+coming soon!
 ```
